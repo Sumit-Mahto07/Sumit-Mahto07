@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and coding
 - 🌱 I’m currently learning computer application and software
 - 💞️ I’m looking to collaborate on tech companies
-- 📫 How to reach me sumitkumarmahto299@gmail.com
+- 📫 How to reach me sumit.mahto.dev@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: The first computer "bug" was a real moth found in a computer in 1947, causing it to malfunction—hence the term "debugging"! 🐛💻
 
